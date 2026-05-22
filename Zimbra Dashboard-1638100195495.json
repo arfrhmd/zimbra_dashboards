@@ -1390,7 +1390,7 @@
       "targets": [
         {
           "exemplar": true,
-          "expr": "zimbra_account_status_total{name=\"closed\"}",
+          "expr": "zimbra_account_status_total{name=\"admin\"}",
           "instant": true,
           "interval": "",
           "legendFormat": "",
